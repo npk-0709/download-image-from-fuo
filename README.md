@@ -1,8 +1,8 @@
 F12 lên dán vào console và thưởng thức :)
 
 
-javascript
-```
+
+```Javascript
 // Thêm thư viện JSZip và FileSaver.js
 const script1 = document.createElement('script');
 script1.src = 'https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js';
