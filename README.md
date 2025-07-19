@@ -3,7 +3,7 @@ F12 lên dán vào console và thưởng thức :)
 
 
 ```Javascript
-#Created By KDevTeam
+//Created By KDevTeam
 const script1 = document.createElement('script');
 script1.src = 'https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js';
 document.head.appendChild(script1);
