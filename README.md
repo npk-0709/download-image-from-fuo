@@ -1,4 +1,4 @@
-F12 lên dán vào console và thưởng thức :)
+Vào Link tài liệu sau đó F12 lên dán đoạn code bên dưới vào console và thưởng thức :)
 
 
 
